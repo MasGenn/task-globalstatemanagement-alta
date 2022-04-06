@@ -1,0 +1,21 @@
+.app {
+  padding: 30px;
+  background-color: rgb(255, 255, 255);
+}
+
+.todo {
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+  justify-content: space-between;
+}
+
+.btn-submit {
+  margin-top: 2px;
+}
+
+h1 {
+  background: linear-gradient(20deg, #ffae00, #002df8);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
